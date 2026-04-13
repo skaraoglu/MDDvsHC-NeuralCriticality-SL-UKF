@@ -80,7 +80,7 @@ A terminological note: these are "estimation approaches" rather than "estimators
 | **UKF State-Space** | Time | Per-TR decay rate via Unscented Kalman Filter | $-0.259$ | $-0.267$ |
 | **Spectral Lorentzian NLS** | Frequency | BOLD power spectrum peak width | $-0.158$ | $-0.150$ |
 | **SC-FC Matching** | Spatial correlation | Coupled SL network regime maximizing FC correlation | $-0.073$ | $-0.030$ |
-| *Deco et al. 2017 (DTI-SC)* | *Spatial correlation* | *Full framework with tractography + hemodynamics* | *$\approx -0.02$* | — |
+| *Deco et al. 2017 (DTI-SC)* | *Spatial correlation* | *Full framework with tractography + hemodynamics* | $\approx -0.02$ | — |
 
 The Stuart-Landau equation in complex form:
 
