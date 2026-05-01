@@ -316,6 +316,6 @@ If you use this pipeline or build on this work, please cite:
 
 <div align="center">
 
-*Built with the [Stuart-Landau](https://en.wikipedia.org/wiki/Stuart%E2%80%93Landau_equation) normal form · [Unscented Kalman Filter](https://github.com/insilico/UKF) · [MDD-fMRI_with_SL-UKF](https://github.com/skaraoglu/MDD-fMRI_with_SL-UKF) · [Schaefer 2018](https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal) + [Melbourne Subcortex](https://github.com/yetianmed/subcortex) · [HNU1/CoRR](https://fcon_1000.projects.nitrc.org/indi/CoRR/html/hnu_1.html)*
+*Built with the [Stuart-Landau](https://en.wikipedia.org/wiki/Stuart%E2%80%93Landau_equation) normal form · [Unscented Kalman Filter](https://github.com/insilico/UKF) · [SL-UKF_Neural_Criticality_MDD](https://github.com/skaraoglu/SL-UKF_Neural_Criticality_MDD) · [Schaefer 2018](https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal) + [Melbourne Subcortex](https://github.com/yetianmed/subcortex) · [HNU1/CoRR](https://fcon_1000.projects.nitrc.org/indi/CoRR/html/hnu_1.html)*
 
 </div>
