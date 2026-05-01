@@ -1,5 +1,11 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero_mdd_vs_hc_circuit.png">
+  <img alt="Neural Criticality in MDD vs Healthy Control"
+       src="assets/hero_mdd_vs_hc_circuit.png" width="700">
+</picture>
+
 # Same Brain, Different Neural Criticality
 
 ### How Estimation Approach Shapes the Stuart-Landau Bifurcation Parameter in Health and Depression
